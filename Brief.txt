@@ -1,0 +1,40 @@
+Summative Assessment Overview
+The task is to create a mobile or web application that fulfils a business need at your organisation and a 2000 word report that details your approach and justification of your methodology.
+Practical submission Part 1 (40%) 
+
+Written submission Part 2 (60%) 
+
+Please note: ensure you read the general assessment guidance at the end of this document. 
+2.	Summative submission
+Project Description
+This summative assessment is focused on taking the information which you have learned in this module and applying it to your role in the workplace - providing your business with a prototype for a mobile or web application with potential IoT integration that would benefit your business. You should draw on your experiences in the workplace and the content covered in this module. This assessment will count towards 100% of the total summative assessment.  
+
+You should consult with staff at your place of work and find a real problem that can be solved with an application. The problem need not be an issue, it could also be an opportunity that has not yet been exploited. You should be able to describe the problem and how your solution will solve it 
+
+Guidance Notes   
+In preparation for this coursework ensure you:   
+•	engage with your employer on the paper you will write - a good starting point is a discussion with your line manager;  
+•	ensure the scope of the report is manageable, achievable and clearly articulates what your focus is;  
+•	be sure to view this from a work context and consider your unique environment;  
+•	consider the formative work you have already completed as this should inform your summative assessment. 
+
+ 
+Summative submission format: 
+Submission Requirements
+1.	Application: 
+•	Link to a short video (5 minutes maximum) demonstrating your working application.
+2.	Report: A written report (maximum 2000 words) that describes the business need/problem you are aiming to solve, and how you intend to solve it using an application, including: 
+•	Defend your choices for the architecture for your application including any hardware considerations or requirements
+•	Critically appraise what additional work is required to turn the prototype into a fully working application, including any changes from feedback.
+•	Consider how your application could be utilised in a smart, IoT environment.
+•	Include code snippets from your application to demonstrate the concepts applied
+
+You should use references to validate your ideas where required with a mind on the usefulness and credibility of the source
+
+The video should be submitted to somewhere it can be accessed, such as an unlisted YouTube video. It should not be included with your submission which should only be the completed report document with header sheet and a link to the video. 
+
+You should ensure the video is accessible to anyone with the link. The video will not be marked if it is not able to be accessed
+
+Formative submission format:
+A draft report outlining what you anticipate submitting for your summative assessment along with any code you have written.
+Please note: ensure you read the general assessment guidance at the end of this document.

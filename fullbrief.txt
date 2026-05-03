@@ -1,0 +1,312 @@
+ 
+
+Degree	Digital Technology Solutions Specialist Software Engineering (Integrated Degree Apprenticeship)
+
+Module	Programming and Application Development
+Level	7
+Term	January 2026
+Submission deadline	Deadlines can be found in the module assessment area on the Hub
+Total Parts	2
+Number of formative development opportunities	1
+Number of summative submission deadlines	1
+Submission mode	A written report
+Application artefact
+
+Assessment Type	Technical report
+Weightings	Part 1: 40%
+Part 2: 60%
+Target audience for material (ie what level should you pitch this at)	A technical expert that will understand the technical aspects of your project
+Tone for material	Formal 
+References	References required  
+Use of Gen AI Optional
+ 
+	It is appropriate, but not essential, to make constructive use of generative AI tools for this assignment. 
+It may not be used to create the work you submit for assessment.
+You may, for example, use it for research support such as analysing public-domain data or papers, or brainstorming ideas.
+Any application or use of AI should always be acknowledged. 
+Misuse of generative AI, as defined in BPP’s assessment regulations, will be treated as an academic offence and may be subject to disciplinary action.
+ 
+You should read the assessment guidance in this brief and the Acceptable Use of Generative AI for guidance: Acceptable Use of Generative AI (students)
+
+ 
+1.	Assessment Brief Overview
+Learning Outcomes (LOs)
+1.	Evaluate between advanced programming concepts for a given problem 
+2.	Critically evaluate how the design and development of web and mobile applications is influenced by business requirements. 
+3.	Design and create scalable web and mobile applications 
+4.	Construct a programming solution for a smart environment using IoT devices and appropriate boards.
+
+Summative Assessment Overview
+The task is to create a mobile or web application that fulfils a business need at your organisation and a 2000 word report that details your approach and justification of your methodology.
+Practical submission Part 1 (40%) 
+
+Written submission Part 2 (60%) 
+
+Please note: ensure you read the general assessment guidance at the end of this document. 
+2.	Summative submission
+Project Description
+This summative assessment is focused on taking the information which you have learned in this module and applying it to your role in the workplace - providing your business with a prototype for a mobile or web application with potential IoT integration that would benefit your business. You should draw on your experiences in the workplace and the content covered in this module. This assessment will count towards 100% of the total summative assessment.  
+
+You should consult with staff at your place of work and find a real problem that can be solved with an application. The problem need not be an issue, it could also be an opportunity that has not yet been exploited. You should be able to describe the problem and how your solution will solve it 
+
+Guidance Notes   
+In preparation for this coursework ensure you:   
+•	engage with your employer on the paper you will write - a good starting point is a discussion with your line manager;  
+•	ensure the scope of the report is manageable, achievable and clearly articulates what your focus is;  
+•	be sure to view this from a work context and consider your unique environment;  
+•	consider the formative work you have already completed as this should inform your summative assessment. 
+
+ 
+Summative submission format: 
+Submission Requirements
+1.	Application: 
+•	Link to a short video (5 minutes maximum) demonstrating your working application.
+2.	Report: A written report (maximum 2000 words) that describes the business need/problem you are aiming to solve, and how you intend to solve it using an application, including: 
+•	Defend your choices for the architecture for your application including any hardware considerations or requirements
+•	Critically appraise what additional work is required to turn the prototype into a fully working application, including any changes from feedback.
+•	Consider how your application could be utilised in a smart, IoT environment.
+•	Include code snippets from your application to demonstrate the concepts applied
+
+You should use references to validate your ideas where required with a mind on the usefulness and credibility of the source
+
+The video should be submitted to somewhere it can be accessed, such as an unlisted YouTube video. It should not be included with your submission which should only be the completed report document with header sheet and a link to the video. 
+
+You should ensure the video is accessible to anyone with the link. The video will not be marked if it is not able to be accessed
+
+Formative submission format:
+A draft report outlining what you anticipate submitting for your summative assessment along with any code you have written.
+Please note: ensure you read the general assessment guidance at the end of this document.
+3.	KSB Development
+The preparation and passing of this assessment  will help you to develop the following KSBs from the DTS apprenticeship standard:
+
+DTSS Core Technical Skills 
+Code 	Details 
+CTS3 	Deliver workplace transformations through planning and implementing technology-based business change programmes including setting objectives, priorities and responsibilities with others in an area of technology specialism; 
+CTS4 	Negotiate and agree digital and technology specialism delivery budgets with those with decision-making responsibility; 
+CTS8 	Be competent at negotiating and closing techniques in a range of interactions and engagements, both with senior internal and external stakeholders; 
+CTS10 	Develop own leadership style and professional values that contributes to building high performing teams; 
+ 
+ 
+DTSS Core Behaviours 
+Code 	Details 
+CB2 	Establish high levels of performance in digital and technology solutions activities; 
+CB3 	Be results and outcomes driven to achieve high key performance outcomes for digital and technology solutions objectives; 
+CB4 	Promote a high level of cooperation between own work group and other groups to establish a technology change led culture; 
+ 
+DTSS Software Engineering Specialist Skills 
+Code 	Details 
+SES2 	Drive the technology decision-making and development process for projects of varying scales, considering current technologies including DevOps and Cloud Computing, and evaluate different technology design and implementation options making reasoned proposals and recommendations; 
+SES3 	Develop and deliver, distributed or semi-complex software solutions that are scalable and which deliver innovative user experiences and journeys that encompass cross-functional teams, platforms and technologies; 
+SES4 	Update current software products, improving the efficiency and functionality, and build new features to product specifications; 
+SES5 	Accomplish planned software development tasks that deliver the expected features, within specified time constraints, security and quality requirements; 
+SES6 	Be accountable for the quality of deliverables from one or more software development teams (source code quality, automated testing, design quality, documentation etc.) and following company standard processes (code reviews, unit testing, source code management etc.). 
+ 
+DTSS Software Engineering Specialist Technical Knowledge 
+Code 	Details 
+SETK1 	The rationale for software platform and solution development, including the organisational context; 
+SETK2 	The various inputs, statements of requirements, security considerations and constraints that guide solution architecture and the development of logical and physical systems' designs; 
+SETK3 	The methodologies designed to help create approaches for organizing the software engineering process, the activities that need to be undertaken at different stages in the life-cycle and techniques for managing risks in delivering software solutions; 
+SETK4 	The approaches used to modularise the internal structure of an application and describe the structure and behaviour of applications used in a business, with a focus on how they interact with each other and with business users; 
+SETK5 	How to design, develop and deploy software solutions that are secure and effective in delivering the requirements of stakeholders and the factors that affect the design of a successful code; 
+SETK6 	The range of metrics which might be used to evaluate a delivered software product. 
+ 
+Assessment Criteria
+Part 1 Assessment Criteria (Program) (40%) – These criteria are used to mark your work; we suggest you self-assess against these criteria before submission   
+Criterion   	0-29%   
+Fail   	30-39%   
+Fail   	40-49%   
+Low Fail  	50-59%    
+Pass	60-69%  	70-79%  	80-100% 
+Practical Skills 	Technical implementation (100%) 	Inadequate, poorly formed application that will be lacking in scope or detail or be underdeveloped. May not be obvious how the prototype solves the business problem.
+
+Does not appear to use good UI and UX principles. May need explanation to know how to use it or would confuse or frustrated the user 
+ 	Limited application that is lacking in scope or detail but goes some way to solving the business problem, albeit not fully 
+Utilises very basic UI/UX principles or uses principles that do not apply to the scenario being presented. May need some explanation to know how to use it or leave the user slightly confused or frustrated 
+  	Significant gaps in prototype that largely fulfils the problem requirement but may lack some detail that a typical user might require to complete the task well 
+Lacks some good UI/UX, or uses it inconsistently such that the user may not fully appreciate how to use it in all situations 	Good application that fulfils the problem requirement, with sufficiently detailed screens. May lack originality in that the problem has an easy and obvious solution.  
+UI/UX could be improved but generally uses principles correctly or uses them inconsistently such that the user may feel a little confused. 	Very good application that fulfils the problem requirement with some originality in that some of the solution has an obvious solution.  
+Very good UI/UX with some possible improvements or lack of consistency that would not confuse the user too much.	Excellent application that fulfils the problem requirements with an original solution.  
+Excellent use of UI/UX principles in an original way that helps the user utilise the application with little training 	Outstanding application that fulfils the problem requirements with an innovative solution.  
+Outstanding use of UI/UX principles in an original way that allows the user to use the application with no prior knowledge 
+ 
+Part 2 Assessment Criteria (Report) (60%) 
+These criteria are used to mark your work; we suggest you self-assess against these criteria before submission 
+ 
+Criterion 	0-29% 
+Fail 	30-39% 
+Fail 	40-49% 
+Low Fail 	50-59% 
+Pass	60-69% 	70-79% 	80-100% 
+Cognitive Skills 	Academic report writing skills 
+(5%) 	Inadequate academic/intellectual skills and repeatedly fails with structure/expression. 	Limited academic/intellectual skills and major difficulty with structure/expression. Wholly imitative and descriptive. Limited practical/professional skills 	Significant gaps in academic/intellectual skills. Still mainly imitative and descriptive.  	Good academic/ intellectual skills with some difficulties. Largely imitative and descriptive. Some difficulty with structure and accuracy in expression, but developing practical/professional skills 	Very good academic/intellectual skills with few difficulties. Largely original work with some evidence of reflection and critique. Structure and accuracy in expression beginning to emerge. 	Excellent academic/intellectual skills. Original work with personal reflection and broad evidence-based critique. Solid structure and accuracy in expression. Practical/professional skills evident. 	Outstanding academic/intellectual skills. Wholly original work with good reflection and solid, well-reasoned judgements forming from evidence-based critique. Consistent structure and accuracy in expression. Practical/professional skills established. 
+	Referencing (5%) 	Inadequate or nil referencing with numerous errors and omissions. 	Very limited referencing with numerous errors and omissions 	Significant gaps in references and notes with inconsistencies, errors or omissions 	Good references and notes but may contain inconsistencies, errors or omissions 	Very good references and notes with minor or insignificant errors or omissions 	Excellent with full and appropriate references and notes with minor or insignificant errors. 	Outstanding with precise, full and appropriate references and notes. 
+Knowledge and understanding	Architecture and design (60%)	Inadequate or no understanding of application architecture and design principles. 
+
+Design patterns are not used, and coding practices are poor, leading to a disorganised and inefficient application.
+ 	Limited understanding of application architecture and design principles. 
+
+Minimal use of design patterns, and coding practices are basic and often flawed, resulting in a somewhat functional but poorly structured application.
+ 
+ 	Significant gaps in understanding of application architecture and design principles. Some use of design patterns, but their application may be incorrect or superficial. Coding practices are adequate but lack sophistication, leading to a functional but not optimal application.
+ 	Good understanding of application architecture and design principles. 
+
+Appropriate use of design patterns though not always optimally applied. Coding practices are generally good, resulting in a well-structured and functional application.	Very good understanding of application architecture and design principles. 
+
+Effective use of design patterns, with most being correctly and appropriately applied. Coding practices are strong, leading to a well-structured, efficient, and maintainable application. 	Excellent understanding of application architecture and design principles. 
+
+Rigorous use of design patterns, with all being correctly and effectively applied. Coding practices are excellent, resulting in a highly efficient, well-structured, and maintainable application.	Outstanding understanding of application architecture and design principles. 
+
+Meticulous use of design patterns, with innovative and highly effective application. 
+
+Coding practices are exemplary, leading to an exceptionally efficient, well-structured, and maintainable application.
+ 	Smart environment/ IoT integration (10%)	Inadequate or no understanding of IoT principles. The application’s potential use in a smart environment is ignored or misunderstood, with no relevant considerations addressed.
+ 	Limited understanding of IoT principles. Basic aspects are mentioned but not well understood or appreciated, leading to significant gaps in considering the application’s use in a smart environment.
+ 	Significant gaps in understanding of IoT principles. Some key aspects are identified but the consideration is superficial and lacks depth, potentially missing important factors for IoT integration.
+ 	Good understanding of IoT principles. Most key aspects are identified and considered, but the appreciation of the complexity and requirements for IoT integration is limited.	Very good understanding of IoT principles. Key aspects such as connectivity, data management, and security are well identified and considered, demonstrating a solid appreciation of the application’s use/potential use in a smart environment.
+ 	Excellent understanding of IoT principles. The consideration is thorough and detailed, covering all key aspects and demonstrating a strong appreciation of the complexity and requirements for use/potential use in a smart environment.	Outstanding understanding of IoT principles. The consideration is comprehensive and meticulously detailed, covering all key aspects and demonstrating an exceptional appreciation of the complexity and requirements of relevant smart environments  and integrating the application into these.
+ 	Further work (20%)	Inadequate or no understanding of the additional work required to productionise a prototype. Key aspects such as scalability, security, and maintainability are ignored or misunderstood. 	Limited understanding of the additional work required. Basic aspects are mentioned but not well understood or appreciated, leading to significant gaps in the explanation.
+ 	Significant gaps in understanding of the additional work required. Some key aspects are identified but the explanation is superficial and lacks depth, potentially missing important considerations. 
+ 	Good understanding of the additional work required. Most key aspects are identified and explained, but the appreciation of the complexity and depth of work needed is limited.	Very good understanding of the additional work required. Key aspects such as scalability, security, and maintainability are well identified and explained, demonstrating a solid appreciation of the work needed.
+ 	Excellent understanding of the additional work required. The explanation is thorough and detailed, covering all key aspects and demonstrating a strong appreciation of the complexity and depth of work needed.	Outstanding understanding of the additional work required. The explanation is comprehensive and meticulously detailed, covering all key aspects and demonstrating an exceptional appreciation of the complexity and depth of work needed to productionise a prototype application.
+
+
+ 
+BPP Coursework Cover Sheet
+Please use the table below as your cover sheet for the 1st page of the submission. The sheet should be before the cover/title page of your submission.
+Programme	
+Module name	
+Schedule Term	
+Student Reference Number (SRN)	
+Report/Assignment Title	
+Date of Submission
+(Please attach the confirmation of any extension received)	
+
+
+Declaration of Original Work:
+§	I hereby declare that I have read and understood BPP’s regulations on plagiarism and that this is my original work, and that I have researched, undertaken, completed and submitted in accordance with the requirements of BPP School of Technology. 
+§	I declare that where I have used any AI tools, it was for the following reasons (highlight as appropriate):
+o	To create an assignment plan
+o	To create a draft
+o	To correct language errors
+o	Other (please describe)
+_______________________________________________________
+§	I have copied & retained for BPP University’s reference, all AI prompts used in the creation of AI content and all AI-generated responses in support of my assignment and attached relevant evidence in the appendices. I understand that I may be required to participate in a viva voce, where I will be questioned on any aspect of my assignment, including key concepts, theories, examples used, & any sources included. 
+§	The word count, excluding contents table, bibliography and appendices, is 	words.
+
+Student Reference Number:						Date:
+
+By submitting this coursework you agree to all rules and regulations of BPP regarding assessments and awards for programmes.  Please note, submission is your declaration you are fit to sit. 
+BPP University reserves the right to use all submitted work for educational purposes and may request that work be published for a wider audience.
+BPP School of Technology
+
+
+
+
+
+General Assessment Guidance
+•	Late submissions will not be marked unless an approved extension has been granted through the formal extension request process.
+•	All coursework must be submitted via TurnitIn only.
+•	Only submissions made via the specified mode will be accepted and hard copies or any other digital form of submissions (like via email or pen drive etc.) will not be accepted. 
+•	Please use English (UK) as your language in the submission.
+•	Do not put your name or contact details anywhere on your submission. You should only put your student registration number (SRN) which will ensure your submission is recognised in the marking process.
+•	Please ensure your student registration number is on your front cover sheet
+•	You should include a completed copy of the Assignment Cover sheet. Any submission without this completed Assignment Coversheet may be considered invalid and not marked. 
+•	BPP University have published guidelines on the Acceptable Use of GenerativeAI which we expect students to familiarise themselves with. In addition, you can find a wealth of information on the Hub here, under BPP’s ‘Generative AI Awareness’ module. You will also find a tool ‘Can I use AI in my studies at BPP?’ to help you determine whether your intended use of Generative AI is allowed in a particular type of programme or course.
+
+Word count
+•	There is 10% allowance above the word count. Assignments that exceed the word count will have all words over the maximum limit discounted and will not be taken into consideration when assigning a grade.
+•	You may submit work that is less than the word count, but you are advised that anything substantially short of the word count is an indication that you haven’t completed the full requirements of the task to the depth required for a pass. 
+•	You must specify total word count on the front page of your report.
+ 
+
+Not included in the word count	Included in the word count
+The cover sheet	Headings and sub-headings
+The appendix	Text based tables
+Numerical tables	In-text citations
+Reference list	In-text citations for diagrams and charts
+Text in diagrams	 
+Contents page	 
+List of figures	 
+Executive summary (where required)	 
+
+ 
+Tables
+•	Tables should be used appropriately and as a way of categorising and displaying information in an easy to look up format. 
+•	Tables should be appropriately labelled, with a descriptive legend. 
+•	All text-based tables should be created in word and not imported as jpegs or other file types into the document. 
+•	Tables presented in the body of the assignment should not include excessive amounts of text. 
+
+
+Diagrams & Charts
+•	All charts and diagrams must be labelled correctly. E.g. Figure 1, with a descriptive legend. 
+•	Diagrams and charts can be imported as other file types and embedded into the document or created within word.
+•	Students misusing charts, diagrams, tables and embedded files to avoid being detected in the word count will be subject to investigation in accordance with the Academic Malpractice procedure.
+
+Referencing
+•	You are required to use only Harvard Referencing System in your submission. Any content which is already published by other author(s) and is not referenced will be considered as a case of plagiarism.  
+•	The BPP library has created two training videos to support referencing and the use of the software Zotero. 
+You can access these materials by following this link https://bpp.libguides.com/technology 
+•	Referencing forms part of the assessment criteria and any referencing not in the Harvard convention will be assessed as inaccurate.
+•	All content derived from the work of others whether summarised, paraphrased must be referenced correctly using the Harvard Referencing System. This includes diagrams, charts and tables copied from others.
+•	Footnotes should not be used.
+•	Anything that is not referenced that is not your original work will be regarded as plagiarism. 
+•	The School of Technology has a strict policy regarding authenticity of assessments.  In proven instances of plagiarism or collusion, severe punishment will be imposed on offenders. You are advised to read the rules and regulations regarding plagiarism and collusion in the GARs and MOPP which are available on Hub in the help and support section. 
+
+Academic Skills/Report Writing
+•	This includes the overall structure of the written work, but more than that, it is the ability to synthesise information, present a well-founded and justified argument. The highest marks go to those who critically evaluate and present original ideas. It also includes the form in which the arguments are expressed. 
+•	Unless the assessment specifically asks them to reflect on their own experiences, the default expectation is that academic reports should be written in the third person. 
+•	Arguments should be made from a neutral perspective whenever possible, not based on an individual’s opinions.
+•	 The referencing marks are for the use of referencing, not just the accuracy of Harvard style. Every point has an accurate and relevant citation, the grading criteria specifies “accurate” – this would be peer review papers, textbooks and such. Not blogs, not Wikipedia. References need to be as close to the original source as possible. It may be suitable to use product documentation, if this is included there needs to be an awareness of the bias of the source. 
+•	 Academic Skills are relative to the level of study, the module learning outcomes can be used to guide expectations. 
+
+ Appendix
+•	Items in the appendix of themselves do not contribute towards the final grade. 
+•	The appendix is for look up items only to support arguments in the main body of the assignment.
+•	Appropriate use of an appendix that is well structured and provides relevant supporting documentation will be assessed as part of the presentation and structure criteria within marking guides but the content itself will not be marked.
+
+Submission and Results
+•	Please note the following:
+•	Submit your summative submission work in the links on the summative submission page on the Hub. Please double check you are submitting to the correct link. 
+•	Please submit your formative submission to the links on the formative submission page on the Hub. 
+•	If, for any reason, you submit in the wrong link, your submission will not be marked.
+•	Ensure that you submit your coursework on time. In line with University regulations, late submissions will not be marked, you will therefore be awarded zero. 
+•	Please take note of your Paper ID. You will need this in any queries about your submission or your mark.
+•	Turnitin may take up to 48 hours to calculate similarity. If you upload a draft file to check similarity, please ensure you do this more than 48 hours before the deadline, so you have time to upload a final copy.
+•	The coursework logged in the system at the closing time on the due date will be marked – no exceptions.
+•	You can also use the Test Link to check similarity.
+•	If you cannot see or cannot access the link you need, please complete an Online Query Form, which can be accessed here
+•	You can access your feedback once results have been posted. Please go back to the link where you submitted and click the blue pen icon. 
+•	You will be emailed your final results each term, on the date advised to you at the beginning of that term. 
+
+
+Programme specific guidance
+•	You are required to achieve minimum 50% overall to pass this module  
+BPP Coursework Cover Sheet
+Please use the table below as your cover sheet for the 1st page of the submission. The sheet should be before the cover/title page of your submission.
+Programme	BSc Hons Digital Technology Solutions Integrated Degree Apprenticeship
+
+Module name	
+Schedule Term	
+Student Reference Number (SRN)	
+Report/Assignment Title	
+Date of Submission
+(Please attach the confirmation of any extension received)	
+
+Declaration of Original Work:
+§	I hereby declare that I have read and understood BPP’s regulations on plagiarism and that this is my original work, and that I have researched, undertaken, completed and submitted in accordance with the requirements of BPP School of Technology. 
+§	I declare that where I have used any AI tools, it was for the following reasons (highlight as appropriate):
+o	To create an assignment plan
+o	To create a draft
+o	To correct language errors
+o	Other (please describe)
+_______________________________________________________
+§	I have copied & retained for BPP University’s reference, all AI prompts used in the creation of AI content and all AI-generated responses in support of my assignment and attached relevant evidence in the appendices. I understand that I may be required to participate in a viva voce, where I will be questioned on any aspect of my assignment, including key concepts, theories, examples used, & any sources included. 
+§	The word count, excluding contents table, bibliography and appendices, is 	words.
+
+Student Reference Number:						Date:
+
+By submitting this coursework you agree to all rules and regulations of BPP regarding assessments and awards for programmes.  Please note, submission is your declaration you are fit to sit. 
+BPP University reserves the right to use all submitted work for educational purposes and may request that work be published for a wider audience. 
+BPP School of Technology
+
+

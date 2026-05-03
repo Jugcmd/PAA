@@ -1,0 +1,27 @@
+Strengths:
+
+- A perfect project for IoT/smart environment integration!  The basis of what you propose seems appropriate to address the assessment.
+
+- The scenario and situation is well explained so far (supporting evidence is needed).
+
+- There is some evident good understanding of the subject matter and smart environment/workplace context.
+
+
+
+Areas for improvement:
+
+- Please remember to include a coversheet in your final submission.
+
+- In terms of report formatting, use headings, page numbers and automatic contents page.
+
+- Currently there are no references used - these will be key to evidencing your points and proving your understanding.  Ensure you cite and list using the Harvard standard format (ask if necessary).  I believe there is a good amount of related research out there.
+
+- Diagram(s) for architecture and code structure/behaviour are recommended!
+
+- Before discussing the technologies and implementation, you need to clearly analyse and define your requirements.  These are critical to develop against, and will be vital for you to refer to during your video demo.
+
+- Although this is a draft, at the moment your approach is descriptive.  You are stating what you will do/have done.  You need to shift to an analytical, critical approach where you appraise and defend your decisions.  Consider alternatives and show you didn't just decide things on a whim.
+
+- The smart/IoT section needs you to show your understanding of what IoT/smart environments are, as well as just explaining your project relevance.
+
+- You also need a 'future developments' section - without this, you will be losing marks.

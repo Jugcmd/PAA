@@ -1,0 +1,78 @@
+Smart Environmental Monitoring System for
+Office Sustainability
+Introduction
+Modern organisations are increasingly expected to improve both workplace conditions and
+environmental sustainability. Environmental factors such as temperature, humidity and air quality can
+have a significant impact on employee wellbeing, comfort and productivity. However, many office
+environments lack real-time visibility of these conditions, making it difficult for organisations to
+monitor environmental performance or identify potential inefficiencies.
+This project proposes the development of a Smart Environmental Monitoring System designed to
+collect, store and visualise environmental data from office spaces. The system will demonstrate how
+Internet of Things (IoT) style technologies can be used to monitor environmental conditions and
+support sustainability initiatives within organisations.
+The prototype will simulate environmental sensors that transmit environmental readings to a backend
+service. These readings will then be stored in a database and displayed through a web-based
+dashboard that allows users to monitor environmental conditions in real time.
+Project Overview
+The purpose of the project is to design and implement a prototype system capable of monitoring
+environmental conditions across office spaces. The system will collect data relating to key
+environmental indicators such as:
+● temperature
+● humidity
+● carbon dioxide (CO₂) levels
+These measurements are commonly used to assess workplace comfort and indoor air quality.
+Monitoring these values can help organisations identify poorly ventilated areas, inefficient heating or
+cooling systems, and environmental conditions that may negatively affect employees.
+The proposed system will collect environmental data from multiple simulated sensor devices. These
+sensors will periodically transmit environmental readings to a backend service which will store the
+data and make it available for analysis and visualisation. A web dashboard will then allow users to
+view environmental conditions across different locations within the office.
+Although the prototype will not use physical IoT hardware, sensor data will be simulated through
+software scripts that generate realistic environmental readings. This approach replicates the data flow
+used in real IoT systems while keeping the project technically manageable.
+Proposed System Architecture
+The system will follow a simple layered architecture consisting of four primary components:
+1. Simulated Environmental Sensors
+2. Backend API Service
+3. Database Storage
+4. Web Dashboard Interface
+The system data flow can be summarised as follows:
+Simulated Sensors > ASP.NET Backend API > SQL Database > React Web Dashboard
+Simulated sensors will periodically send environmental readings to the backend API. The API will
+process the incoming data and store it within a relational database. The frontend dashboard will then
+retrieve this information and display it to users in an accessible visual format.
+This architecture reflects common design patterns used in real-world IoT monitoring systems.
+Technology Stack
+The project will be implemented using a modern full-stack development approach.
+Frontend
+The user interface will be developed using React, which enables the creation of dynamic and
+responsive web applications. The dashboard will present environmental readings using charts and
+visual indicators so that users can easily understand the current environmental conditions within the
+office.
+The dashboard will allow users to:
+● view real-time environmental readings
+● monitor environmental conditions across different locations
+● view historical environmental trends.
+Backend
+The backend service will be implemented using ASP.NET Core Web API written in C#. This API will
+handle incoming sensor data and provide endpoints for retrieving environmental information.
+The backend will perform several key functions:
+● receiving simulated sensor readings
+● validating incoming data
+● storing environmental readings
+● providing data to the frontend application.
+Database
+Environmental data will be stored within a relational SQL database (Microsoft SQL Server). The
+database will store both sensor information and historical environmental readings, allowing the
+system to analyse environmental conditions over time.
+IoT Simulation Approach
+Since the system is being developed as a prototype, environmental sensors will be simulated rather
+than physically deployed. A small program or script will generate environmental readings at regular
+intervals and send them to the backend API using HTTP requests.
+This simulated data will represent the behaviour of real IoT devices that periodically transmit
+telemetry data to cloud services. By simulating sensor behaviour, the project is able to demonstrate the
+core data processing and monitoring functionality of a smart environmental monitoring system
+without requiring specialised hardware.
+This will most likely be simulated using AI, either simply prompting for a simulated dataset,
+implementing a model that mimics environmental behaviour based on time of day, taking into account
+occupancy, or a predictive model trained on real data to predict future environmental conditions.

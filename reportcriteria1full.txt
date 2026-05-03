@@ -1,0 +1,40 @@
+Part 2 Assessment Criteria (Report) (60%) 
+These criteria are used to mark your work; we suggest you self-assess against these criteria before submission 
+ 
+Criterion 	0-29% 
+Fail 	30-39% 
+Fail 	40-49% 
+Low Fail 	50-59% 
+Pass	60-69% 	70-79% 	80-100% 
+Cognitive Skills 	Academic report writing skills 
+(5%) 	Inadequate academic/intellectual skills and repeatedly fails with structure/expression. 	Limited academic/intellectual skills and major difficulty with structure/expression. Wholly imitative and descriptive. Limited practical/professional skills 	Significant gaps in academic/intellectual skills. Still mainly imitative and descriptive.  	Good academic/ intellectual skills with some difficulties. Largely imitative and descriptive. Some difficulty with structure and accuracy in expression, but developing practical/professional skills 	Very good academic/intellectual skills with few difficulties. Largely original work with some evidence of reflection and critique. Structure and accuracy in expression beginning to emerge. 	Excellent academic/intellectual skills. Original work with personal reflection and broad evidence-based critique. Solid structure and accuracy in expression. Practical/professional skills evident. 	Outstanding academic/intellectual skills. Wholly original work with good reflection and solid, well-reasoned judgements forming from evidence-based critique. Consistent structure and accuracy in expression. Practical/professional skills established. 
+	Referencing (5%) 	Inadequate or nil referencing with numerous errors and omissions. 	Very limited referencing with numerous errors and omissions 	Significant gaps in references and notes with inconsistencies, errors or omissions 	Good references and notes but may contain inconsistencies, errors or omissions 	Very good references and notes with minor or insignificant errors or omissions 	Excellent with full and appropriate references and notes with minor or insignificant errors. 	Outstanding with precise, full and appropriate references and notes. 
+Knowledge and understanding	Architecture and design (60%)	Inadequate or no understanding of application architecture and design principles. 
+
+Design patterns are not used, and coding practices are poor, leading to a disorganised and inefficient application.
+ 	Limited understanding of application architecture and design principles. 
+
+Minimal use of design patterns, and coding practices are basic and often flawed, resulting in a somewhat functional but poorly structured application.
+ 
+ 	Significant gaps in understanding of application architecture and design principles. Some use of design patterns, but their application may be incorrect or superficial. Coding practices are adequate but lack sophistication, leading to a functional but not optimal application.
+ 	Good understanding of application architecture and design principles. 
+
+Appropriate use of design patterns though not always optimally applied. Coding practices are generally good, resulting in a well-structured and functional application.	Very good understanding of application architecture and design principles. 
+
+Effective use of design patterns, with most being correctly and appropriately applied. Coding practices are strong, leading to a well-structured, efficient, and maintainable application. 	Excellent understanding of application architecture and design principles. 
+
+Rigorous use of design patterns, with all being correctly and effectively applied. Coding practices are excellent, resulting in a highly efficient, well-structured, and maintainable application.	Outstanding understanding of application architecture and design principles. 
+
+Meticulous use of design patterns, with innovative and highly effective application. 
+
+Coding practices are exemplary, leading to an exceptionally efficient, well-structured, and maintainable application.
+ 	Smart environment/ IoT integration (10%)	Inadequate or no understanding of IoT principles. The application’s potential use in a smart environment is ignored or misunderstood, with no relevant considerations addressed.
+ 	Limited understanding of IoT principles. Basic aspects are mentioned but not well understood or appreciated, leading to significant gaps in considering the application’s use in a smart environment.
+ 	Significant gaps in understanding of IoT principles. Some key aspects are identified but the consideration is superficial and lacks depth, potentially missing important factors for IoT integration.
+ 	Good understanding of IoT principles. Most key aspects are identified and considered, but the appreciation of the complexity and requirements for IoT integration is limited.	Very good understanding of IoT principles. Key aspects such as connectivity, data management, and security are well identified and considered, demonstrating a solid appreciation of the application’s use/potential use in a smart environment.
+ 	Excellent understanding of IoT principles. The consideration is thorough and detailed, covering all key aspects and demonstrating a strong appreciation of the complexity and requirements for use/potential use in a smart environment.	Outstanding understanding of IoT principles. The consideration is comprehensive and meticulously detailed, covering all key aspects and demonstrating an exceptional appreciation of the complexity and requirements of relevant smart environments  and integrating the application into these.
+ 	Further work (20%)	Inadequate or no understanding of the additional work required to productionise a prototype. Key aspects such as scalability, security, and maintainability are ignored or misunderstood. 	Limited understanding of the additional work required. Basic aspects are mentioned but not well understood or appreciated, leading to significant gaps in the explanation.
+ 	Significant gaps in understanding of the additional work required. Some key aspects are identified but the explanation is superficial and lacks depth, potentially missing important considerations. 
+ 	Good understanding of the additional work required. Most key aspects are identified and explained, but the appreciation of the complexity and depth of work needed is limited.	Very good understanding of the additional work required. Key aspects such as scalability, security, and maintainability are well identified and explained, demonstrating a solid appreciation of the work needed.
+ 	Excellent understanding of the additional work required. The explanation is thorough and detailed, covering all key aspects and demonstrating a strong appreciation of the complexity and depth of work needed.	Outstanding understanding of the additional work required. The explanation is comprehensive and meticulously detailed, covering all key aspects and demonstrating an exceptional appreciation of the complexity and depth of work needed to productionise a prototype application.
+
